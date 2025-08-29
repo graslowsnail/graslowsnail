@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi!
 
-<!--
-**graslowsnail/graslowsnail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build fast, fun software and AI tools.
 
-Here are some ideas to get you started:
+- 🔭 Now: **Open Metropolitan** — an infinite, draggable gallery for 330k+ MET artworks with “find similar” exploration.
+- ⚙️ Stack: TypeScript • React/Next.js • Python/FastAPI • Postgres • Redis • Socket.IO
+- 🎯 Interests: systems that feel great to use (real-time UIs, search, agents)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+<!-- Quick icon strip (optional). Remove if you don’t want external images) -->
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,python,fastapi,postgres,firebase,git,docker,vim)](https://skillicons.dev)
+
+## Contact
+- ✉️ pablo7ramirez7@gmail.com
+- 🌐 https://pabloar.com
+- 🔗 LinkedIn: _add yours here_
