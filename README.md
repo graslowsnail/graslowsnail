@@ -13,4 +13,4 @@ I build fast, fun software and AI tools.
 ## Contact
 - ✉️ pablo7ramirez7@gmail.com
 - 🌐 https://pabloar.com
-- 🔗 LinkedIn: _add yours here_
+- 🔗 LinkedIn: https://www.linkedin.com/in/pablo-ramirez-5589b7260/
