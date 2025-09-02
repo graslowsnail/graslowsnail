@@ -2,9 +2,6 @@
 
 I'm a Software Engineer who builds—from cars to art to code. I thrive in fast-paced environments, quickly learn new tech, and adapt to different problem sets.
 
-> “Shoot for the stars, so if you fall you land on a cloud.”  
-> — Kanye West
-
 ## Toolbox
 <!-- Quick icon strip (optional). Remove if you don’t want external images) -->
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,python,bash,fastapi,postgres,firebase,git,docker,vim)](https://skillicons.dev)
