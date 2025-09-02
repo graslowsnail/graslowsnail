@@ -1,16 +1,20 @@
 # Hi!
 
-I build fast, fun software and AI tools.
+I'm a Software Engineer who builds—from cars to art to code. I thrive in fast-paced environments, quickly learn new tech, and adapt to different problem sets.
 
-- 🔭 Now: **Open Metropolitan** — an infinite, draggable gallery for 330k+ MET artworks with “find similar” exploration.
-- ⚙️ Stack: TypeScript • React/Next.js • Python/FastAPI • Postgres • Redis • Socket.IO
-- 🎯 Interests: systems that feel great to use (real-time UIs, search, agents)
+> “Shoot for the stars, so if you fall you land on a cloud.”  
+> — Kanye West
 
-## Tools
+## Toolbox
 <!-- Quick icon strip (optional). Remove if you don’t want external images) -->
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,python,fastapi,postgres,firebase,git,docker,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,python,bash,fastapi,postgres,firebase,git,docker,vim)](https://skillicons.dev)
 
-## Contact
-- ✉️ pablo7ramirez7@gmail.com
-- 🌐 https://pabloar.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/pablo-ramirez-5589b7260/
+## Interests
+I build across disciplines not just software. In my free time, I dive into:
+- **1967 Camaro** — restoring, and learning the craft of old-school performance
+- **Weight lifting** — strength, powerlifting, and chasing hard numbers
+- **Photography** — capturing moments (Film photography)
+- **Analog tech** — modding iPods, vinyl records, making old things feel new
+
+Find more of me at  
+**https://pabloar.com**
